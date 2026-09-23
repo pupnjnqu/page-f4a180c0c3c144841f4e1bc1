@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "5386e7ba730e26f956138955",
+  "owner": "pupnjnqu",
+  "repo": "page-f4a180c0c3c144841f4e1bc1",
+  "title": "一起浪",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f4a180c0c3c144841f4e1bc1",
+      "a": "一起浪",
+      "b": "2027最新官网",
+      "entity": "一起浪",
+      "brand": "一起浪",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "23acc969178eb86b57bc75d96c7a3066386bc186c72e32ae75cd1d4b3dad8d51",
+      "content": {
+        "primary_entity": "一起浪",
+        "keyword1": "一起浪",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，一起浪面向需要稳定海外连接的用户，提供基础版、旗舰版与团队版三档套餐。基础版每月15元含100GB流量，支持3台设备；旗舰版每月35元含300GB流量，支持5台设备，并配备IPLC专线优化；团队版每月85元含1000GB流量，支持20台设备与专属路由。按年付可享更优惠的月均价格，用户可依据日常使用设备数量与流量需求挑选合适方案。",
+          "AI_HERO_SUBTITLE": "一起浪，畅连海外每时每刻",
+          "AI_HERO_INTRO": "一起浪是一款供个人与团队使用的海外网络加速服务。从轻量日常浏览到多设备协作，一起浪通过不同档位的流量与设备配额，让用户按需订阅，轻松管理跨地区访问。",
+          "AI_VISUAL_TITLE": "一起浪 套餐随心选",
+          "AI_HIGHLIGHT_1": "基础版每月15元含100GB流量",
+          "AI_HIGHLIGHT_2": "旗舰版月付35元畅享300GB",
+          "AI_HIGHLIGHT_3": "团队版月付85元支持20台设备",
+          "AI_FEATURES_INTRO": "三档套餐覆盖单人、家庭与团队场景，按设备数量和流量需求灵活匹配。",
+          "AI_FEATURES_TITLE": "套餐匹配你的使用场景",
+          "AI_FEATURE_TITLE_1": "按设备数量选",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版支持5台，团队版最多支持20台设备同时在线。",
+          "AI_FEATURE_TITLE_2": "按流量档位选",
+          "AI_FEATURE_TEXT_2": "每月100GB、300GB或1000GB三档流量，对应轻度浏览、日常多设备与团队高频使用。",
+          "AI_FEATURE_TITLE_3": "按周期付费",
+          "AI_FEATURE_TEXT_3": "月付灵活起订，按年付基础版150元、旗舰版350元、团队版850元，长期使用更省。",
+          "AI_CLIENTS_TITLE": "选择适合你设备的客户端",
+          "AI_CLIENTS_INTRO": "根据手机、电脑或路由器等设备类型，在客户端列表中找到对应版本并按文档配置订阅。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版平衡流量与设备，团队版面向多人协作。按年付可进一步降低月均成本。",
+          "AI_GUIDE_TITLE": "三步开始使用一起浪",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅配置，只需三步即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_1": "根据常用设备数量和每月流量需求，在基础版、旗舰版或团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端版本符合要求，团队版需确认路由或定制需求。",
+          "AI_STEP_TITLE_3": "配置订阅连接",
+          "AI_STEP_TEXT_3": "在所选客户端中导入订阅信息，依照客户端内说明完成配置即可使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "一起浪，轻松连接",
+          "AI_CLOSING_TEXT": "选好适合的套餐，按客户端文档配置订阅，即可开始稳定的海外访问体验。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备，适合轻度浏览和偶尔追剧；旗舰版每月 300GB、5 台设备，增加全节点流媒体解锁和 IPLC 专线，适合游戏和高清视频用户。",
+          "AI_FAQ_ANSWER_2": "同一时间在线的设备数量因套餐而异：基础版 3 台、旗舰版 5 台、团队版 20 台。切换设备时建议先退出不用的客户端，避免超过限制。",
+          "AI_FAQ_ANSWER_3": "支持主流订阅格式，在客户端中粘贴订阅链接即可导入。手机端常用 Shadowrocket，电脑端可用 Clash Verge，具体以客户端文档为准。",
+          "AI_FAQ_ANSWER_4": "月付灵活，适合短期需求；年付一次付清更划算，例如基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，相当于省下两个月费用。",
+          "AI_FAQ_ANSWER_5": "打开客户端后选择延迟低的节点，若遇高峰期卡顿可切换至 IPLC 专线节点或非高峰时段线路。旗舰版和团队版提供更高带宽节点，体验更稳定。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版有什么区别？",
+          "AI_FAQ_QUESTION_2": "一个账号能同时登录几台设备？",
+          "AI_FAQ_QUESTION_3": "如何导入订阅到客户端？",
+          "AI_FAQ_QUESTION_4": "月付和年付应该怎么选？",
+          "AI_FAQ_QUESTION_5": "遇到速度慢或延迟高怎么办？",
+          "AI_FAQ_TITLE": "常见疑问"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kqq37frnz.org",
+    "host": "xn--9kqq37frnz.org"
+  },
+  "file_hashes": {
+    "index.html": "ef653519e081586399965819b9e963456f25d08c25b2392e202993d39078bd4a",
+    "sitemap.xml": "f91c2d5df5564e365bb0a42464afd252bd5bbe494a4f6b567c6dba2c08bb4383",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d75e96033a58ddc806a82e30aef408e869364d2db9954d39377a9f7a4bae5ddc",
+    "robots.txt": "91da51df8c49e2a6e23b25c24f7d21ec8ce28986d7f45632fbbef7ecbdb229a4",
+    "bec2820cc24137b0874febf683ce17a7.txt": "4fcc77b84cc70ae770472292c1c294a93bd72e9113ca17e86d61a7d190eba50d"
+  },
+  "revision": "8312668aeca8c387e81339c6ff8a9804a4fba626e62ee298cff0bf4b5168afe9"
+}
